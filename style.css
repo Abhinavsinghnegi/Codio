@@ -61,12 +61,13 @@ img {vertical-align: middle;}
   @media only screen and (max-width: 300px) {
     .prev, .next,.text {font-size: 11px}
   }
+  /* Submit a sample */
   .sample{
     position:absolute;
     top: 139%; left: 45%; bottom: 0; right: 0;
   }
   #sam{
-    border: 3px solid rgb(158, 212, 212);
+    border: 3px solid;
     padding: 6px 6px;
     border-radius: 310px;
     text-decoration: none;
