@@ -61,6 +61,21 @@ img {vertical-align: middle;}
   @media only screen and (max-width: 300px) {
     .prev, .next,.text {font-size: 11px}
   }
+  .sample{
+    position:absolute;
+    top: 139%; left: 45%; bottom: 0; right: 0;
+  }
+  #sam{
+    border: 3px solid rgb(158, 212, 212);
+    padding: 6px 6px;
+    border-radius: 310px;
+    text-decoration: none;
+  }
+  #sam:hover{
+    background-color: #222222;
+    color: #FFF;
+    border-color:black;
+  }
 
   /* WHO ARE WE */
   .who{
