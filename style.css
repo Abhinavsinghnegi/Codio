@@ -64,7 +64,7 @@ img {vertical-align: middle;}
   /* Submit a sample */
   .sample{
     position:absolute;
-    top: 139%; left: 45%; bottom: 0; right: 0;
+    top: 143%; left: 45%; bottom: 0; right: 0;
   }
   #sam{
     border: 3px solid;
@@ -86,7 +86,7 @@ img {vertical-align: middle;}
       font-weight: 600;
       position: relative;
       width: 100%;
-      padding-left: 380px;
+      padding-left: 80px;
       padding-right: 15px;
   }
   .arewe{
