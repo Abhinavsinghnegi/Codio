@@ -273,3 +273,32 @@ img {vertical-align: middle;}
 	background: #7dabdb;
     transition: all 2s ease-in-out;
 }
+
+/* How it works */
+.home{
+  text-decoration: none;
+  color: lightblue;
+  font-size: 30px;
+  font-family:  'Arial Narrow', Arial, sans-serif;
+  margin-left: 10px;
+}
+
+.how-it-works{
+  display: block;
+  margin-left: 100px;
+  margin-right: 0;
+  width: 90%;
+}
+
+.h{
+  display: flex;
+  padding: 0;
+  margin-left: 400px;
+  font-size: 50px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.audio{
+  display: flex;
+  margin-left: 600px;
+}
